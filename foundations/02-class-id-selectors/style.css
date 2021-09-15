@@ -1,15 +1,16 @@
 .odd {
     background-color: rgb(252, 132, 132);
     font-family: Verdana, sans-serif;
+    /* Initially i put quotes around Verdana (mistake) */
 }
 
 #second {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
 #fourth {
-    background-color: rgb(137, 236, 79);
+    background-color: hsl(98, 81%, 62%);
     font-size: 24px;
     font-weight: bold;
 }
