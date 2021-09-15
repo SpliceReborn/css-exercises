@@ -9,7 +9,7 @@ I have cloned the repo and added it as my own repo to better measure my progress
 1. Foundations:
   - 01-css-methods [✅]
   - 02-class-id-selectors [✅]
-  - 03-grouping-selectors [ ]
+  - 03-grouping-selectors [✅]
   - 04-chaining-selectors [ ]
   - 05-descendant-combinator [ ]
   - 06-cascade-fix [ ]
