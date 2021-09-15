@@ -12,7 +12,7 @@ I have cloned the repo and added it as my own repo to better measure my progress
   - 03-grouping-selectors [✅]
   - 04-chaining-selectors [✅]
   - 05-descendant-combinator [✅]
-  - 06-cascade-fix [ ]
+  - 06-cascade-fix [✅]
 
 2. Margin and Padding:
   - margin-and-padding-1 [✅]
