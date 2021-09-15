@@ -15,7 +15,7 @@ I have cloned the repo and added it as my own repo to better measure my progress
   - 06-cascade-fix [ ]
 
 2. Margin and Padding:
-  - margin-and-padding-1 [ ]
+  - margin-and-padding-1 [✅]
   - margin-and-padding-2 [ ]
  
 3. Flex:
